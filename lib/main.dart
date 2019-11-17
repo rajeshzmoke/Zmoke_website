@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Zmoke',
       theme: ThemeData(
         fontFamily: "28Days",
         textTheme: Theme.of(context).textTheme.apply(fontFamily: "28Days", fontSizeFactor: 2.0),

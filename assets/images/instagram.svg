@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54.1 (76490) - https://sketchapp.com -->
+    <title>3E46EA8C-5F01-4004-AE80-CC4AB67565E8</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="99.7089109%" x2="50%" y2="0.776721582%" id="linearGradient-1">
+            <stop stop-color="#E09B3D" offset="0%"></stop>
+            <stop stop-color="#C74C4D" offset="30%"></stop>
+            <stop stop-color="#C21975" offset="60%"></stop>
+            <stop stop-color="#7024C4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10.5129891,2.64677169e-13 L4.46076087,2.64677169e-13 C2.00108696,2.64677169e-13 -6.44817533e-13,2.00108696 -6.44817533e-13,4.46076087 L-6.44817533e-13,10.5129891 C-6.44817533e-13,12.972663 2.00108696,14.97375 4.46076087,14.97375 L10.5129891,14.97375 C12.972663,14.97375 14.97375,12.972663 14.97375,10.5129891 L14.97375,4.46076087 C14.9737228,2.00108696 12.9726359,2.64677169e-13 10.5129891,2.64677169e-13 Z M13.4673913,10.5129891 C13.4673913,12.1446467 12.1446467,13.4673913 10.5129891,13.4673913 L4.46076087,13.4673913 C2.82910326,13.4673913 1.5063587,12.1446467 1.5063587,10.5129891 L1.5063587,4.46076087 C1.5063587,2.82907609 2.82910326,1.5063587 4.46076087,1.5063587 L10.5129891,1.5063587 C12.1446467,1.5063587 13.4673913,2.82907609 13.4673913,4.46076087 L13.4673913,10.5129891 L13.4673913,10.5129891 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="146.098873%" x2="50%" y2="-45.1596833%" id="linearGradient-3">
+            <stop stop-color="#E09B3D" offset="0%"></stop>
+            <stop stop-color="#C74C4D" offset="30%"></stop>
+            <stop stop-color="#C21975" offset="60%"></stop>
+            <stop stop-color="#7024C4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M7.486875,3.61413043 C5.35144022,3.61413043 3.61413043,5.35144022 3.61413043,7.48684783 C3.61413043,9.62225543 5.35144022,11.3595924 7.486875,11.3595924 C9.62230978,11.3595924 11.3596196,9.62228261 11.3596196,7.48684783 C11.3596196,5.35141304 9.62230978,3.61413043 7.486875,3.61413043 Z M7.486875,9.85326087 C6.17994565,9.85326087 5.12048913,8.79380435 5.12048913,7.486875 C5.12048913,6.17994565 6.17997283,5.12048913 7.486875,5.12048913 C8.79380435,5.12048913 9.85326087,6.17994565 9.85326087,7.486875 C9.85326087,8.79377717 8.79377717,9.85326087 7.486875,9.85326087 Z" id="path-4"></path>
+        <linearGradient x1="50%" y1="658.140556%" x2="50%" y2="-140.029283%" id="linearGradient-5">
+            <stop stop-color="#E09B3D" offset="0%"></stop>
+            <stop stop-color="#C74C4D" offset="30%"></stop>
+            <stop stop-color="#C21975" offset="60%"></stop>
+            <stop stop-color="#7024C4" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="11.3671196" cy="3.64320652" r="1"></circle>
+    </defs>
+    <g id="Concept-3-Final-Mobile-design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profile-screen-info" transform="translate(-144.000000, -238.000000)" fill-rule="nonzero">
+            <g id="Group-12" transform="translate(96.000000, 238.000000)">
+                <g id="instagram-(1)" transform="translate(48.000000, 0.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="12" cy="12" r="12"></circle>
+                    <g id="Group-5" transform="translate(4.500000, 4.500000)">
+                        <g id="Shape">
+                            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="Shape">
+                            <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Oval">
+                            <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-6"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

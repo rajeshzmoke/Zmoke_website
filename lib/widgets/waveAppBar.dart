@@ -14,6 +14,7 @@ class LoopAppBar extends StatelessWidget {
     return Container(
       height: size,
       width: double.infinity,
+      color: Colors.transparent,
       child: ClipPath(
         clipper: WaveClipper(),
         child: Container(
@@ -35,7 +36,7 @@ class LoopAppBar extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: <Widget>[
               Text(
-                "Flutter Adventure",
+                "Flutter Web Adventure",
                 style: Theme.of(context).textTheme.copyWith(title: TextStyle(fontSize: 50)).title,
               )
             ],
